@@ -1,0 +1,106 @@
+body {
+  font-family: Bitter;
+}
+
+body,
+h1,
+h1>small {
+  color: white;
+}
+
+h1 {
+  font-family: Abel;
+  font-size: 3em;
+  line-height: 40px;
+}
+
+p {
+  font-size: 1.1em;
+}
+
+.heading-to-right {
+  margin-top: 25px;
+}
+
+.navbar,
+.navbar-inverse {
+  background: #333 !important;
+  opacity: 0.7;
+  border: 0 !important;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+  font-size: 2em;
+}
+
+header {
+  background-image: url(img/home.jpg);
+  position: relative;
+  min-height: 645px;
+  background-repeat: none;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.about-section {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+  background-image: url(img/about-2.jpg);
+  position: relative;
+  min-height: 645px;
+  background-repeat: none;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.portfolio-section {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+  background-image: url(img/portfolio.jpg);
+  position: relative;
+  min-height: 645px;
+  background-repeat: none;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.resume-section {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+  background-image: url(img/resume.jpg);
+  position: relative;
+  min-height: 645px;
+  background-repeat: none;
+
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.text-background {
+  background-color: rgba(0,0,0, 0.6);
+  padding: 20px;
+}
+
+.thumbnail {
+  padding-top: 30px;
+}
+
+.footer-bar-btns>li {
+  list-style: none;
+}
+
+.footer-bar-btns>li>a {
+  color: white;
+}
